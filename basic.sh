@@ -1,4 +1,5 @@
 #!/bin/bash
+apt-get install dos2unix p7zip-full cpio gzip genisoimage whois pwgen wget fakeroot isolinux xorriso -y
 apt-get update 
 apt-get install python -y
 apt-get install python3 -y 
